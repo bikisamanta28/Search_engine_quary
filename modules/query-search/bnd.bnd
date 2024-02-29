@@ -1,0 +1,4 @@
+Bundle-Name: query-search
+Bundle-SymbolicName: com.test.liferay.query
+Bundle-Version: 1.0.0
+Export-Package: com.test.liferay.query.constants

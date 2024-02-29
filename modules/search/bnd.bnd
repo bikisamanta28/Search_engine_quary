@@ -1,0 +1,6 @@
+Bundle-Name: search
+Bundle-SymbolicName: search
+Bundle-Version: 1.0.0
+Fragment-Host: com.liferay.portal.search.web;bundle-version="6.0.101"
+Portal-Bundle-Version: 7.4.13
+Import-Package: *;resolution:="optional"
